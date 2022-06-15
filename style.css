@@ -1,0 +1,8 @@
+.intro {
+  background-image:url(BAssets/Background-desktop.svg) ;
+  background-size: cover;
+}
+
+.card {
+  margin: 0 auto 0;
+}
