@@ -1,7 +1,7 @@
 # Portfolio-Bootstrap
  Portfolio
 
-> This Portfolio project was built for both mobile and Desktop
+> This is my first project where I used figma templates create a replia of all styles and picture as seen on the figma page. This Project was done using HTML CSS flex and grid properties. A bit of javaScript was used to validate the contact section.
 
 
 ## Built With
