@@ -1,7 +1,7 @@
 # Portfolio-Bootstrap
  Portfolio
 
-> This Portfolio project was built usi
+> This Portfolio project was built for both mobile and Desktop
 
 
 ## Built With
